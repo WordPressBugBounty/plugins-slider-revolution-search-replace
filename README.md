@@ -1,0 +1,1 @@
+# plugins-slider-revolution-search-replace
